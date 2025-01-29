@@ -36,8 +36,8 @@ To achieve these insights and recommendations, I utilized various features such 
 - **Custom Tables and Star Schema Models:** For efficient data organization and querying.
 - **RFM Analysis for Customer Segmentation and Product Growth Segmentation Techniques:** To better understand and segment customers and products for targeted marketing efforts.
 
-By leveraging these tools and techniques, I was able to deliver clear and actionable insights, ultimately helping Lee's merchandise business make informed decisions and drive growth. It took me two weeks to complete this analysis from start to end.
+By leveraging these tools and techniques, I was able to deliver clear and actionable insights, ultimately helping Lee's merchandise business make informed decisions and drive growth. It took me two weeks of focussed work to complete this analysis from start to end.
+Below is definition of customer categories.
 
----
 
 I appreciate your feedback regarding its design and utility value.
