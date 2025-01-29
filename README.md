@@ -37,8 +37,9 @@ To achieve these insights and recommendations, I utilized various features such 
 - **RFM Analysis for Customer Segmentation and Product Growth Segmentation Techniques:** To better understand and segment customers and products for targeted marketing efforts.
 
 By leveraging these tools and techniques, I was able to deliver clear and actionable insights, ultimately helping Lee's merchandise business make informed decisions and drive growth. It took me two weeks of focussed work to complete this analysis from start to end.
-Below is definition of customer categories.
-#Color pallette
+
+#Color pallette#
+
 The color palette I used is the following. Reddish 222 106 105 Green 66 106 90 Brownish 221 174 176 yellowish 242 197 124 aqua 64 224 208 
 
 
