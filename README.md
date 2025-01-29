@@ -1,4 +1,4 @@
-![Screenshot 2025-01-30 044514](https://github.com/user-attachments/assets/91e34bfa-bf35-4fae-a527-f7eedbee9eff)
+
 
 ![Screenshot 2025-01-30 044437](https://github.com/user-attachments/assets/a55007db-b6a1-4a5d-b00c-3eb70fb6a75e)
 # Business Analysis for Lee Chatman's Merchandise Business
@@ -47,6 +47,8 @@ The color palette I used is the following. Reddish 222 106 105 Green 66 106 90 B
 
 
 I appreciate your feedback regarding its design and utility value.
+
+![Screenshot 2025-01-30 044514](https://github.com/user-attachments/assets/91e34bfa-bf35-4fae-a527-f7eedbee9eff)
 
 ![Uploading Screenshot 2025-01-30 044514.png
 
